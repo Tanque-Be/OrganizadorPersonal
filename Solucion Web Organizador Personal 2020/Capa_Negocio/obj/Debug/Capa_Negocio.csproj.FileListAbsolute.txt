@@ -1,0 +1,6 @@
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\Capa_Negocio\obj\Debug\Capa_Negocio.csprojAssemblyReference.cache
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

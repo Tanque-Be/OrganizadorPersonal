@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Iinicio.aspx" title="Inicio.."  description="">
+    <siteMapNode url="PaginaHorario" title="Horario"  description="" />
+    <siteMapNode url="PaginaClave" title="Claves"  description="" />
+  </siteMapNode>
+</siteMap>

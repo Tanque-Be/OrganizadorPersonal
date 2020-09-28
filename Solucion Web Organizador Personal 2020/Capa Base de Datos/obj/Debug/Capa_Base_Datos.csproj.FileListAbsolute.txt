@@ -1,0 +1,6 @@
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\Capa Base de Datos\bin\Debug\Capa Base de Datos.dll
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\Capa Base de Datos\bin\Debug\Capa Base de Datos.pdb
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\Capa Base de Datos\obj\Debug\Capa_Base_Datos.csprojAssemblyReference.cache
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\Capa Base de Datos\obj\Debug\Capa_Base_Datos.csproj.CoreCompileInputs.cache
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\Capa Base de Datos\obj\Debug\Capa Base de Datos.dll
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\Capa Base de Datos\obj\Debug\Capa Base de Datos.pdb

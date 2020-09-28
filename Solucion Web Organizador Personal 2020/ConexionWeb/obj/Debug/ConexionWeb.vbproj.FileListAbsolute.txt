@@ -1,0 +1,11 @@
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\ConexionWeb\obj\Debug\ConexionWeb.vbprojAssemblyReference.cache
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\ConexionWeb\obj\Debug\ConexionWeb.Resources.resources
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\ConexionWeb\obj\Debug\ConexionWeb.vbproj.GenerateResource.cache
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\ConexionWeb\obj\Debug\ConexionWeb.vbproj.CoreCompileInputs.cache
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\ConexionWeb\bin\ConexionWeb.dll.config
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\ConexionWeb\bin\ConexionWeb.dll
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\ConexionWeb\bin\ConexionWeb.pdb
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\ConexionWeb\bin\ConexionWeb.xml
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\ConexionWeb\obj\Debug\ConexionWeb.dll
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\ConexionWeb\obj\Debug\ConexionWeb.xml
+F:\Almacenamiento General\Material Clases Duoc\Segundo Semestre\Programacion C#\Solucion Web Organizador Personal 2020\ConexionWeb\obj\Debug\ConexionWeb.pdb
